@@ -1,0 +1,22 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px 30px;
+    text-align: center;
+}
+th {
+    font-weight: bold;
+}
+#table {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+}
+.div-center {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
